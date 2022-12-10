@@ -1,0 +1,3 @@
+C:/Users/Migue/Documents/LinguagemC/Ordenacao/cmake-build-debug/CMakeFiles/Ordenacao.dir
+C:/Users/Migue/Documents/LinguagemC/Ordenacao/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Migue/Documents/LinguagemC/Ordenacao/cmake-build-debug/CMakeFiles/rebuild_cache.dir
